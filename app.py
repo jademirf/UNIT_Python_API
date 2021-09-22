@@ -8,7 +8,7 @@ def hello():
 
 @app.route('/user')
 def user():
-    return "nome do usuário"
+    return "nome do usuário!"
 
 if __name__ == '__main__':
     app.run(debug=True)
