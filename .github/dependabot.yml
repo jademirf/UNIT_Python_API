@@ -4,5 +4,5 @@ updates:
   directory: "/"
   sechedule:
     interval: daily
-    time: "11:53"
+    time: "12:00"
   open-pull-requests-limit: 10
