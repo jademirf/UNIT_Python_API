@@ -4,5 +4,6 @@ updates:
   directory: "/"
   schedule:
     interval: daily
-    time: "12:15"
+    time: "12:20 PM"
+    timezone: "Brazil/DeNoronha"
   open-pull-requests-limit: 10
