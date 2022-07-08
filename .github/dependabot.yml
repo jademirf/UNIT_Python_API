@@ -2,7 +2,7 @@ version: 2
 updates:
 - package-ecosystem: pip
   directory: "/"
-  sechedule:
+  schedule:
     interval: daily
-    time: "12:00"
+    time: "12:15"
   open-pull-requests-limit: 10
